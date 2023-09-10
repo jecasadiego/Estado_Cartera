@@ -1,0 +1,23 @@
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.form {
+  width: 400px;
+}
+
+.img1{
+  margin-top: 15px;
+}
+
+.card-header{
+  background-color: rgb(254,253,2);
+}
+
+.table-container{
+  max-width: 400px;
+}
+
